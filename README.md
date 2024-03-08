@@ -118,7 +118,7 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
   
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 #include "stdio.h"
 
@@ -151,6 +151,7 @@ PUTCHAR_PROTOTYPE
 }
 
 
+```
 
 
 ## Output screen shots of serial port utility   :
