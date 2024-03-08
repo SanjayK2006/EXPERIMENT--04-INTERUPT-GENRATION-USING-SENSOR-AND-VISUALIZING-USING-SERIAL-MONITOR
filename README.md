@@ -118,7 +118,7 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
   
 
 ## STM 32 CUBE PROGRAM :
-```
+
 #include "main.h"
 #include "stdio.h"
 
@@ -154,8 +154,11 @@ PUTCHAR_PROTOTYPE
 
 
 ## Output screen shots of serial port utility   :
-'''
-![screenshot (201)](https://github.com/Yuvakrishna0/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/117915037/3aa49ac2-685d-4875-bea4-90829fa46779)
+
+#interrupt detected:
+![Screenshot (201)](https://github.com/Yuvakrishna0/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/117915037/3aa49ac2-685d-4875-bea4-90829fa46779)
+
+
 
  
  
