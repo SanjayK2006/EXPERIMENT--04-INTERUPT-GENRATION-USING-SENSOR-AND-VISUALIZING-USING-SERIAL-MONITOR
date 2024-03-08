@@ -154,13 +154,13 @@ PUTCHAR_PROTOTYPE
 
 
 ## Output screen shots of serial port utility   :
-
-![Screenshot (201)](https://github.com/Yuvakrishna0/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/117915037/3aa49ac2-685d-4875-bea4-90829fa46779)
+'''
+![screenshot (201)](https://github.com/Yuvakrishna0/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/117915037/3aa49ac2-685d-4875-bea4-90829fa46779)
 
  
  
  ## Circuit board :
- 
+ '''
 #no obstacle:
 ![Screenshot 2024-03-07 201256](https://github.com/Yuvakrishna0/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/117915037/37823032-f947-42fb-9bff-736892d4d037)
  #obstacle detected:
